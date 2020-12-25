@@ -1,0 +1,131 @@
+strict graph {
+	// Layout Configuration
+	layout = neato;
+	epsilon = 0.01;
+	mode = KK;
+	model = subset;
+	overlap = false;
+	splines = ortho;
+
+	// Visual Configuration
+	graph [truecolor=true bgcolor="#36393f"]
+	node [style=filled fillcolor="gray" fontcolor="black"]
+
+	subgraph "Joel" {
+		node [style=filled fillcolor="firebrick4" fontcolor="white"];
+		Joel [style=filled fillcolor="gold" fontcolor="black"];
+
+		Anders -- Joel;
+		Cayla -- Joel
+		Cayla -- Kate;
+		Cayla -- Ranger;
+		Joel -- Conner;
+		Joel -- Jared;
+		Joel -- Steven;
+		Joel -- Zach;
+	}
+
+	subgraph "Anders" {
+		node [style=filled fillcolor="green4" fontcolor="white"];
+
+		Anders -- Chiara
+		Anders -- Cody;
+		Anders -- Daniel;
+		Anders -- Danny;
+		Anders -- "Derek/Yaupon";
+		Anders -- DJ;
+		Anders -- Hahnur
+		Anders -- Jen;
+		Anders -- Jonathan;
+		Anders -- Matt;
+		Anders -- Will;
+		Anders -- Wyatt;
+	}
+
+	subgraph "Jared" {
+		node [style=filled fillcolor="royalblue" fontcolor="black"]
+
+		Dave -- Everett;
+		Donnie -- Bryan;
+		Donnie -- Michael;
+		Jared -- Brandi;
+		Jared -- Dave;
+		Jared -- Donnie;
+		Jared -- Fabi;
+		Jared -- Hope;
+		Jared -- Johnboy;
+		Jared -- Justin;
+		Jared -- Nam;
+		Jared -- Rin;
+		Jared -- Spencer;
+		Jared -- Tyler;
+		Jared -- "Zach/Laniakea";
+		Michael -- Troy;
+		Rin -- Isaiah;
+		Tyler -- America;
+		Tyler -- Gaby;
+		Troy -- Drake;
+		Troy -- Klein;
+	}
+
+	subgraph "Zach/Laniakea" {
+		node [style=filled fillcolor="#4eff2c" fontcolor="black"]
+
+		Caio -- Kyle1;
+		Caio -- Lucas;
+		"Zach/Laniakea" -- Allen;
+		"Zach/Laniakea" -- Caio;
+		"Zach/Laniakea" -- Colin;
+		"Zach/Laniakea" -- John [ len = 10 ];
+		"Zach/Laniakea" -- Kyle0;
+		"Zach/Laniakea" -- Mike;
+		"Zach/Laniakea" -- Ryan;
+	}
+
+	subgraph "John" {
+		node [style=filled fillcolor="#c89b3c" fontcolor="black"]
+
+		Haber -- "Derek/Nomad";
+		John -- Anna;
+		John -- Emily;
+		John -- Haber;
+		John -- Jay;
+		John -- Jack;
+		John -- Lara;
+		John -- Monarch;
+		John -- "Oliger/Leanza";
+		John -- Thomas;
+	}
+
+	subgraph "John-stream" {
+		// node [style=filled fillcolor="#9147ff" fontcolor="black"]
+		node [style=filled fillcolor="#c89b3c" fontcolor="black"]
+
+		John -- Izzy;
+		John -- "Michael (Wheezy)";
+		John -- Robby;
+	}
+
+	subgraph "Thomas" {
+		node [style=filled fillcolor="#b04900" fontcolor="black"]
+		Alex -- "Da'Von";
+		Alex -- Blitt;
+		Alex -- Sam;
+		Blitt -- Gabe;
+		Brie -- Sky;
+		"Da'Von" -- Kuri;
+		"Da'Von" -- Zellar;
+		Kuri -- Andrew;
+		Kuri -- Pyrath;
+		Kuri -- Tristen;
+		Thomas -- Alex;
+		Thomas -- Brie;
+		Thomas -- Josh;
+		Thomas -- Juan;
+		Thomas -- Taylor;
+		Thomas -- Zoltan;
+		Zoltan -- Jude;
+		Zoltan -- Nick;
+		Zoltan -- Richard;
+	}
+}
