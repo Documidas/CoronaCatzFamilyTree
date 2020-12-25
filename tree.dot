@@ -31,13 +31,13 @@ strict graph {
 		Anders -- Chiara
 		Anders -- Cody;
 		Anders -- Daniel;
-		Anders -- Danny;
 		Anders -- "Derek/Yaupon";
 		Anders -- DJ;
-		Anders -- Hahnur
+		Anders -- Hahnur;
 		Anders -- Jen;
 		Anders -- Jonathan;
 		Anders -- Matt;
+		Anders -- Solis;
 		Anders -- Will;
 		Anders -- Wyatt;
 	}
@@ -102,21 +102,19 @@ strict graph {
 		node [style=filled fillcolor="#c89b3c" fontcolor="black"]
 
 		John -- Izzy;
-		John -- "Michael (Wheezy)";
+		John -- "Michael/Wheezy";
 		John -- Robby;
 	}
 
 	subgraph "Thomas" {
 		node [style=filled fillcolor="#b04900" fontcolor="black"]
 		Alex -- "Da'Von";
-		Alex -- Blitt;
+		Alex -- "Alex/Blitt";
 		Alex -- Sam;
-		Blitt -- Gabe;
-		Brie -- Sky;
+		"Alex/Blitt" -- Gabe;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
 		Kuri -- Andrew;
-		Kuri -- Pyrath;
 		Kuri -- Tristen;
 		Thomas -- Alex;
 		Thomas -- Brie;
@@ -124,7 +122,6 @@ strict graph {
 		Thomas -- Juan;
 		Thomas -- Taylor;
 		Thomas -- Zoltan;
-		Zoltan -- Jude;
 		Zoltan -- Nick;
 		Zoltan -- Richard;
 	}
