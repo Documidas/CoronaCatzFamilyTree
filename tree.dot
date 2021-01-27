@@ -119,12 +119,8 @@ strict graph {
 		Kuri -- Andrew;
 		Kuri -- Tristen;
 		Thomas -- Alex;
-		Thomas -- Brie;
 		Thomas -- Josh;
 		Thomas -- Juan;
 		Thomas -- Taylor;
-		Thomas -- Zoltan;
-		Zoltan -- Nick;
-		Zoltan -- Richard;
 	}
 }
