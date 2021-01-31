@@ -117,8 +117,6 @@ strict graph {
 		"Alex/Blitt" -- Gabe;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
-		Kuri -- Andrew;
-		Kuri -- Tristen;
 		Thomas -- Alex;
 		Thomas -- Josh;
 		Thomas -- Juan;
