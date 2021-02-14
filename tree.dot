@@ -117,6 +117,7 @@ strict graph {
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Gabe;
 		"Alex/Blitt" -- "Josh/Perfectly";
+		"Da'Von" -- Dalton;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
 		Thomas -- Alex;
