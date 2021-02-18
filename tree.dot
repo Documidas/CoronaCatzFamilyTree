@@ -21,6 +21,7 @@ strict graph {
 		Cayla -- Ranger;
 		Joel -- Conner;
 		Joel -- Jared;
+		Joel -- Patrick;
 		Joel -- Steven;
 		Joel -- Zach;
 	}
@@ -117,6 +118,7 @@ strict graph {
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Gabe;
 		"Alex/Blitt" -- "Josh/Perfectly";
+		Dalton -- Graysen;
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
