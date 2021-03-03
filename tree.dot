@@ -46,9 +46,11 @@ strict graph {
 	subgraph "Jared" {
 		node [style=filled fillcolor="royalblue" fontcolor="black"]
 
+		Andrew -- Hannah;
 		Dave -- Everett;
 		Donnie -- Bryan;
 		Donnie -- Michael;
+		Greg -- Andrew;
 		Jared -- Brandi;
 		Jared -- Dave;
 		Jared -- Donnie;
