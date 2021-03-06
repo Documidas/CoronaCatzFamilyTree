@@ -51,6 +51,7 @@ strict graph {
 		Donnie -- Bryan;
 		Donnie -- Michael;
 		Greg -- Andrew;
+		Isaiah -- "Jack.2";
 		Jared -- Brandi;
 		Jared -- Dave;
 		Jared -- Donnie;
