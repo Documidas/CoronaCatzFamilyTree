@@ -63,6 +63,7 @@ strict graph {
 		Jared -- Spencer;
 		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
+		Jared -- "Zöe";
 		Michael -- Troy;
 		Rin -- Isaiah;
 		Tyler -- America;
