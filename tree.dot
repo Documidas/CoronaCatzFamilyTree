@@ -112,8 +112,9 @@ strict graph {
 
 	subgraph "Thomas" {
 		node [style=filled fillcolor="#b04900" fontcolor="black"]
-		Alex -- "Da'Von";
 		Alex -- "Alex/Blitt";
+		Alex -- "Da'Von";
+		Alex -- Gabe;
 		Alex -- Sam;
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Gabe;
