@@ -114,7 +114,6 @@ strict graph {
 		node [style=filled fillcolor="#b04900" fontcolor="black"]
 		Alex -- "Alex/Blitt";
 		Alex -- "Da'Von";
-		Alex -- Gabe;
 		Alex -- Sam;
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Gabe;
