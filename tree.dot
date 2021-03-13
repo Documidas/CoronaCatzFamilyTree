@@ -50,7 +50,9 @@ strict graph {
 		Dave -- Everett;
 		Donnie -- Bryan;
 		Donnie -- Michael;
+		Greg -- Ali;
 		Greg -- Andrew;
+		Hannah -- Logan;
 		Isaiah -- "Jack.2";
 		Jared -- Brandi;
 		Jared -- Dave;
@@ -64,6 +66,7 @@ strict graph {
 		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
 		Jared -- "Zöe";
+		Logan -- Raana;
 		Michael -- Troy;
 		Rin -- Isaiah;
 		Tyler -- America;
