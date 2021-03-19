@@ -78,13 +78,13 @@ strict graph {
 	subgraph "Zach/Laniakea" {
 		node [style=filled fillcolor="#4eff2c" fontcolor="black"]
 
-		Caio -- Kyle1;
-		Caio -- Lucas;
+		"Caio.2" -- "Kyle.1";
+		"Caio.2" -- Lucas;
 		"Zach/Laniakea" -- Allen;
-		"Zach/Laniakea" -- Caio;
+		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- Colin;
 		"Zach/Laniakea" -- John [ len = 10 ];
-		"Zach/Laniakea" -- Kyle0;
+		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
 		"Zach/Laniakea" -- Ryan;
 	}
@@ -118,8 +118,10 @@ strict graph {
 		Alex -- "Alex/Blitt";
 		Alex -- "Da'Von";
 		Alex -- Sam;
+		"Alex/Blitt" -- "Alex the 3rd";
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Gabe;
+		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- "Josh/Perfectly";
 		Dalton -- Graysen;
 		"Da'Von" -- Dalton;
