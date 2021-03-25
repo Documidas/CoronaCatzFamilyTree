@@ -118,6 +118,7 @@ strict graph {
 		Alex -- "Alex/Blitt";
 		Alex -- "Da'Von";
 		Alex -- Sam;
+		"Alex/Blitt" -- Alan;
 		"Alex/Blitt" -- "Alex the 3rd";
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Gabe;
@@ -128,8 +129,10 @@ strict graph {
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
 		Thomas -- Alex;
+		Thomas -- JD;
 		Thomas -- Josh;
 		Thomas -- Juan;
 		Thomas -- Taylor;
+		Thomas -- Travis;
 	}
 }
