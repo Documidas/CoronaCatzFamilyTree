@@ -1,11 +1,13 @@
 strict graph {
 	// Layout Configuration
-	layout = neato;
+	layout = dot;
+	dpi = 300;
 	epsilon = 0.01;
-	mode = KK;
+	mode = major;
 	model = subset;
 	overlap = false;
 	splines = ortho;
+	start = rand;
 
 	// Visual Configuration
 	graph [truecolor=true bgcolor="#36393f"]
