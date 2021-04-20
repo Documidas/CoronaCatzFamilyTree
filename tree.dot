@@ -10,17 +10,17 @@ strict graph {
 	start = rand;
 
 	// Visual Configuration
-	graph [truecolor=true bgcolor="#36393f"]
-	node [style=filled fillcolor="gray" fontcolor="black"]
+	graph [ truecolor=true bgcolor="#36393f" ];
+	node [ style=filled fillcolor="gray" fontcolor="black" ];
 
 	subgraph "Joel" {
-		node [style=filled fillcolor="firebrick4" fontcolor="white"];
-		Joel [style=filled fillcolor="gold" fontcolor="black"];
+		node [ style=filled fillcolor="firebrick4" fontcolor="white" ];
+		Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
-		Anders -- Joel;
-		Cayla -- Joel
 		Cayla -- Kate;
 		Cayla -- Ranger;
+		Joel -- Anders;
+		Joel -- Cayla;
 		Joel -- Conner;
 		Joel -- Jared;
 		Joel -- Patrick;
@@ -29,9 +29,10 @@ strict graph {
 	}
 
 	subgraph "Anders" {
-		node [style=filled fillcolor="green4" fontcolor="white"];
+		node [ style=filled fillcolor="green4" fontcolor="white" ];
+		Anders [ style=filled fillcolor="green4" fontcolor="white" ];
 
-		Anders -- Chiara
+		Anders -- Chiara;
 		Anders -- Cody;
 		Anders -- Daniel;
 		Anders -- "Derek/Yaupon";
@@ -46,7 +47,8 @@ strict graph {
 	}
 
 	subgraph "Jared" {
-		node [style=filled fillcolor="royalblue" fontcolor="black"]
+		node [ style=filled fillcolor="royalblue" fontcolor="black" ];
+		Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
 		Andrew -- Hannah;
 		Dave -- Everett;
@@ -78,21 +80,23 @@ strict graph {
 	}
 
 	subgraph "Zach/Laniakea" {
-		node [style=filled fillcolor="#4eff2c" fontcolor="black"]
+		node [ style=filled fillcolor="#4eff2c" fontcolor="black" ];
+		"Zach/Laniakea" [ style=filled fillcolor="#4eff2c" fontcolor="black" ];
 
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- Colin;
-		"Zach/Laniakea" -- John [ len = 10 ];
+		"Zach/Laniakea" -- John;
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
 		"Zach/Laniakea" -- Ryan;
 	}
 
 	subgraph "John" {
-		node [style=filled fillcolor="#c89b3c" fontcolor="black"]
+		node [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
+		John [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 
 		Haber -- "Derek/Nomad";
 		John -- Anna;
@@ -107,8 +111,8 @@ strict graph {
 	}
 
 	subgraph "John-stream" {
-		// node [style=filled fillcolor="#9147ff" fontcolor="black"]
-		node [style=filled fillcolor="#c89b3c" fontcolor="black"]
+		// node [ style=filled fillcolor="#9147ff" fontcolor="black" ];
+		node [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 
 		John -- Izzy;
 		John -- "Michael/Wheezy";
@@ -116,7 +120,9 @@ strict graph {
 	}
 
 	subgraph "Thomas" {
-		node [style=filled fillcolor="#b04900" fontcolor="black"]
+		node [ style=filled fillcolor="#b04900" fontcolor="black" ];
+		Thomas [ style=filled fillcolor="#b04900" fontcolor="black" ];
+
 		Alex -- "Alex/Blitt";
 		Alex -- "Da'Von";
 		Alex -- Sam;
