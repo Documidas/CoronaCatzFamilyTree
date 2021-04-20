@@ -136,6 +136,7 @@ strict graph {
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
+		Kuri -- Drew;
 		Thomas -- Alex;
 		Thomas -- JD;
 		Thomas -- Josh;
