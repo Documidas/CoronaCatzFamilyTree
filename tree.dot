@@ -15,7 +15,7 @@ strict graph {
 
 	subgraph "Joel" {
 		node [ style=filled fillcolor="firebrick4" fontcolor="white" ];
-		// Joel [ style=filled fillcolor="gold" fontcolor="black" ];
+		Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
 		Cayla -- Ali;
 		Cayla -- Jonathan;
