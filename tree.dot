@@ -17,6 +17,7 @@ strict graph {
 		node [ style=filled fillcolor="firebrick4" fontcolor="white" ];
 		// Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
+		Cayla -- Jonathan;
 		Cayla -- Kate;
 		Cayla -- Ranger;
 		Joel -- Anders;
@@ -40,7 +41,6 @@ strict graph {
 		Anders -- DJ;
 		Anders -- Hahnur;
 		Anders -- Jen;
-		Anders -- Jonathan;
 		Anders -- Matt;
 		Anders -- Solis;
 		Anders -- Will;
