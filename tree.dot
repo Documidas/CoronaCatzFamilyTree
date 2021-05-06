@@ -92,6 +92,7 @@ strict graph {
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- Colin;
 		"Zach/Laniakea" -- John;
+		"Zach/Laniakea" -- Kevin;
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
 		"Zach/Laniakea" -- Ryan;
