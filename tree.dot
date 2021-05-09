@@ -154,5 +154,6 @@ strict graph {
 		"Da'Von" -- Zellar;
 		Dalton -- Graysen;
 		Kuri -- Drew;
+		Kuri -- Jon;
 	}
 }
