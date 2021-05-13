@@ -89,6 +89,7 @@ strict graph {
 
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
+		Colin -- Jade;
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- Colin;
