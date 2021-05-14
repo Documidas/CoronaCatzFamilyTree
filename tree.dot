@@ -17,7 +17,7 @@ strict graph {
 		node [ style=filled fillcolor="firebrick4" fontcolor="white" ];
 		Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
-		Cayla -- Ali;
+		Cayla -- "Ali.2";
 		Cayla -- Jonathan;
 		Cayla -- Kate;
 		Cayla -- Ranger;
@@ -56,7 +56,7 @@ strict graph {
 		Dave -- Everett;
 		Donnie -- Bryan;
 		Donnie -- Michael;
-		Greg -- Ali;
+		Greg -- "Ali.1";
 		Greg -- Andrew;
 		Hannah -- Logan;
 		Isaiah -- "Jack.2";
