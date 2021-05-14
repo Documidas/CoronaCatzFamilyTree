@@ -67,6 +67,7 @@ strict graph {
 		Jared -- Greg;
 		Jared -- Isabelle;
 		Jared -- Mason;
+		Jared -- Mehmet;
 		Jared -- Nam;
 		Jared -- Rin;
 		Jared -- Spencer;
@@ -88,10 +89,12 @@ strict graph {
 
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
+		Colin -- Jade;
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- Colin;
 		"Zach/Laniakea" -- John;
+		"Zach/Laniakea" -- Kevin;
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
 		"Zach/Laniakea" -- Ryan;
@@ -153,5 +156,6 @@ strict graph {
 		"Da'Von" -- Zellar;
 		Dalton -- Graysen;
 		Kuri -- Drew;
+		Kuri -- Jon;
 	}
 }
