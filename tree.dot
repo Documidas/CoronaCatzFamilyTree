@@ -140,6 +140,7 @@ strict graph {
 		Alex -- Sam;
 		"Alex/Blitt" -- Alan;
 		"Alex/Blitt" -- "Alex the 3rd";
+		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Gabe;
 		"Alex/Blitt" -- "Kyle.3";
