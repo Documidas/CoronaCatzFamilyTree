@@ -150,5 +150,6 @@ strict graph {
 		Dalton -- Graysen;
 		Kuri -- Drew;
 		Kuri -- Jon;
+		Kuri -- Karma;
 	}
 }
