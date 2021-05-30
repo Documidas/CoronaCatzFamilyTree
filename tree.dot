@@ -92,7 +92,7 @@ strict graph {
 		"Zach/Laniakea" -- Kevin;
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
-		"Zach/Laniakea" -- Ryan;
+		"Zach/Laniakea" -- "Ryan.1";
 	}
 
 	subgraph "John" {
@@ -142,8 +142,11 @@ strict graph {
 		"Alex/Blitt" -- "Alex the 3rd";
 		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Carlos;
+		"Alex/Blitt" -- Chris;
+		"Alex/Blitt" -- Frank;
 		"Alex/Blitt" -- Gabe;
 		"Alex/Blitt" -- "Kyle.3";
+		"Alex/Blitt" -- "Ryan.2";
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
