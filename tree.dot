@@ -59,23 +59,21 @@ strict graph {
 		Greg -- "Ali.1";
 		Greg -- Andrew;
 		Hannah -- Logan;
-		Isaiah -- "Jack.2";
 		Jared -- Brandi;
 		Jared -- Dave;
 		Jared -- Donnie;
 		Jared -- Fabi;
+		Jared -- "Jack.2";
 		Jared -- Tyler;
 		Jared -- Greg;
 		Jared -- Isabelle;
 		Jared -- Mason;
 		Jared -- Mehmet;
 		Jared -- Nam;
-		Jared -- Rin;
 		Jared -- Spencer;
 		Jared -- "Zach/Laniakea";
 		Jared -- "Zöe";
 		Logan -- Raana;
-		Rin -- Isaiah;
 		Troy -- Drake;
 		Tyler -- Gaby;
 	}
