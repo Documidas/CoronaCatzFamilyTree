@@ -58,6 +58,7 @@ strict graph {
 		Donnie -- Troy;
 		Greg -- "Ali.1";
 		Greg -- Andrew;
+		Greg -- Carter;
 		Hannah -- Logan;
 		Jared -- Brandi;
 		Jared -- Dave;
