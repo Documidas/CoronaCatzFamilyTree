@@ -59,6 +59,7 @@ strict graph {
 		Greg -- "Ali.1";
 		Greg -- Andrew;
 		Greg -- Carter;
+		Greg -- GT;
 		Hannah -- Logan;
 		Jared -- Brandi;
 		Jared -- Dave;
@@ -147,6 +148,7 @@ strict graph {
 		"Alex/Blitt" -- Gabe;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- "Ryan.2";
+		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
