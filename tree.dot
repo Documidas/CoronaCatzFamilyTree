@@ -59,7 +59,6 @@ strict graph {
 		Greg -- "Ali.1";
 		Greg -- Andrew;
 		Greg -- Carter;
-		Greg -- GT;
 		Hannah -- Logan;
 		Jared -- Brandi;
 		Jared -- Dave;
@@ -130,6 +129,7 @@ strict graph {
 		Thomas -- Taylor;
 		Thomas -- Tony;
 		Thomas -- Travis;
+		Tony -- GT;
 	}
 
 	subgraph "Alex" {
