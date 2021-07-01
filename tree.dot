@@ -128,7 +128,8 @@ strict graph {
 		Thomas -- Juan;
 		Thomas -- Taylor;
 		Thomas -- Tony;
-		Thomas -- Travis;
+		Thomas -- "Travis.1";
+		Thomas -- "Travis.2";
 		Tony -- GT;
 	}
 
