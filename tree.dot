@@ -65,13 +65,14 @@ strict graph {
 		Jared -- Donnie;
 		Jared -- Fabi;
 		Jared -- "Jack.2";
-		Jared -- Tyler;
+		Jared -- Kamon;
 		Jared -- Greg;
 		Jared -- Isabelle;
 		Jared -- Mason;
 		Jared -- Mehmet;
 		Jared -- Nam;
 		Jared -- Spencer;
+		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
 		Jared -- "Zöe";
 		Logan -- Raana;
