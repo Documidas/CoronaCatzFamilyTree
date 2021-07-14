@@ -153,6 +153,7 @@ strict graph {
 		"Alex/Blitt" -- "Ryan.2";
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
+		"Da'Von" -- Dalyn;
 		"Da'Von" -- Kuri;
 		"Da'Von" -- Zellar;
 		Dalton -- Graysen;
