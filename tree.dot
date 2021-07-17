@@ -59,6 +59,7 @@ strict graph {
 		Greg -- "Ali.1";
 		Greg -- Andrew;
 		Greg -- Carter;
+		Greg -- "John Boi";
 		Hannah -- Logan;
 		Jared -- Brandi;
 		Jared -- Dave;
