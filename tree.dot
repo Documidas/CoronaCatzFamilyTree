@@ -60,7 +60,7 @@ strict graph {
 		Greg -- Andrew;
 		Greg -- Carter;
 		Greg -- "John Boi";
-		Hannah -- Logan;
+		Hannah -- Raana;
 		Jared -- Brandi;
 		Jared -- Dave;
 		Jared -- Donnie;
@@ -78,7 +78,6 @@ strict graph {
 		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
 		Jared -- "Zöe";
-		Logan -- Raana;
 		Troy -- Drake;
 		Tyler -- Gaby;
 		"Zöe" -- Jasper;
@@ -94,6 +93,7 @@ strict graph {
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- Colin;
 		"Zach/Laniakea" -- John;
+		"Zach/Laniakea" -- Logan;
 		"Zach/Laniakea" -- Kevin;
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
