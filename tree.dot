@@ -60,6 +60,7 @@ strict graph {
 		Greg -- Andrew;
 		Greg -- Carter;
 		Greg -- "John Boi";
+		Greg -- Tails;
 		Hannah -- Raana;
 		Jared -- Brandi;
 		Jared -- Dave;
