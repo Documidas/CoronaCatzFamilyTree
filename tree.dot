@@ -129,6 +129,7 @@ strict graph {
 		// Thomas [ style=filled fillcolor="#b04900" fontcolor="black" ];
 
 		Thomas -- Alex;
+		Thomas -- Bob;
 		Thomas -- JD;
 		Thomas -- Josh;
 		Thomas -- Juan;
