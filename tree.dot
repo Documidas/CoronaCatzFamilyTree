@@ -161,7 +161,7 @@ strict graph {
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Dalyn;
 		"Da'Von" -- Kuri;
-		"Da'Von" -- Zellar;
+		"Da'Von" -- Zeller;
 		Dalton -- Graysen;
 		Kuri -- Drew;
 		Kuri -- Jon;
