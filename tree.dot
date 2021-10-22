@@ -161,7 +161,9 @@ strict graph {
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Dalyn;
-		"Da'Von" -- Kuri;
+		"Da'Von" -- Drew;
+		"Da'Von" -- Jon;
+		"Da'Von" -- Karma;
 		"Da'Von" -- Zeller;
 		Dalton -- Graysen;
 		Kuri -- Drew;
