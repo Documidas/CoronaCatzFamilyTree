@@ -92,12 +92,16 @@ strict graph {
 
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
+		Kuri -- Drew;
+		Kuri -- Jon;
+		Kuri -- Karma;
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- Colin;
 		"Zach/Laniakea" -- John;
 		"Zach/Laniakea" -- Logan;
 		"Zach/Laniakea" -- Kevin;
+		"Zach/Laniakea" -- Kuri;
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
 		"Zach/Laniakea" -- "Ryan.1";
@@ -162,13 +166,7 @@ strict graph {
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Dalyn;
-		"Da'Von" -- Drew;
-		"Da'Von" -- Jon;
-		"Da'Von" -- Karma;
 		"Da'Von" -- Zeller;
 		Dalton -- Graysen;
-		Kuri -- Drew;
-		Kuri -- Jon;
-		Kuri -- Karma;
 	}
 }
