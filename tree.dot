@@ -140,6 +140,7 @@ strict graph {
 		Thomas -- JD;
 		Thomas -- Josh;
 		Thomas -- Juan;
+		Thomas -- Michael;
 		Thomas -- Taylor;
 		Thomas -- Tony;
 		Thomas -- "Travis.1";
