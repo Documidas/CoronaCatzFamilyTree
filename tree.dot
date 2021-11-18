@@ -165,11 +165,12 @@ strict graph {
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Laske;
-		"Alex/Blitt" -- "Ryan";
+		"Alex/Blitt" -- "Ryan.1";
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Dalyn;
 		"Da'Von" -- Zeller;
 		Dalton -- Graysen;
+		Gabriel -- "Ryan.2";
 	}
 }
