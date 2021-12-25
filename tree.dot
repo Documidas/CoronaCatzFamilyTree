@@ -45,6 +45,7 @@ strict graph {
 		Anders -- Solis;
 		Anders -- Will;
 		Anders -- Wyatt;
+		Anders -- Zach;
 	}
 
 	subgraph "Jared" {
