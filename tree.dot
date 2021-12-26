@@ -41,7 +41,7 @@ strict graph {
 		Anders -- DJ;
 		Anders -- Hahnur;
 		Anders -- Jen;
-		Anders -- Matt;
+		Anders -- "Matt.2";
 		Anders -- Solis;
 		Anders -- Will;
 		Anders -- Wyatt;
@@ -75,7 +75,7 @@ strict graph {
 		Jared -- Greg;
 		Jared -- Isabelle;
 		Jared -- Mason;
-		Jared -- Matt;
+		Jared -- "Matt.1";
 		Jared -- Mehmet;
 		Jared -- Nam;
 		Jared -- Shannon;
