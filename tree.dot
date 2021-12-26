@@ -55,6 +55,7 @@ strict graph {
 		Andrew -- Hannah;
 		Cole -- "Shadia/SJ";
 		Dave -- Everett;
+		Donnie -- Bianca;
 		Donnie -- Bryan;
 		Donnie -- Troy;
 		Greg -- "Ali.1";
@@ -82,10 +83,11 @@ strict graph {
 		Jared -- Spencer;
 		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
-		Jared -- "Zöe";
+		Jared -- Zoe;
 		Troy -- Drake;
 		Tyler -- Gaby;
-		"Zöe" -- Jasper;
+		Zoe -- Jasper;
+		Zoe -- Jacob;
 	}
 
 	subgraph "Zach/Laniakea" {
