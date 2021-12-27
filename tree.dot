@@ -86,6 +86,7 @@ strict graph {
 		Jared -- Zoe;
 		Troy -- Drake;
 		Tyler -- Gaby;
+		Zoe -- Brandon;
 		Zoe -- Jasper;
 		Zoe -- Jacob;
 	}
