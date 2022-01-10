@@ -84,6 +84,7 @@ strict graph {
 		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
 		Jared -- Zoe;
+		"Shadia/SJ" -- Kalel;
 		Troy -- Drake;
 		Tyler -- Gaby;
 		Zoe -- Brandon;
