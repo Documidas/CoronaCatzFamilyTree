@@ -79,6 +79,7 @@ strict graph {
 		Jared -- "Matt.1";
 		Jared -- Mehmet;
 		Jared -- Nam;
+		Jared -- Pixie;
 		Jared -- Shannon;
 		Jared -- Spencer;
 		Jared -- Tyler;
