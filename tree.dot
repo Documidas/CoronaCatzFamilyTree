@@ -180,5 +180,6 @@ strict graph {
 		"Da'Von" -- Zeller;
 		Dalton -- Graysen;
 		Gabriel -- "Ryan.2";
+		Zeller -- Sierra;
 	}
 }
