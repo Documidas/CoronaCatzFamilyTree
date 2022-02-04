@@ -53,13 +53,10 @@ strict graph {
 		// Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
 		Andrew -- Hannah;
-		Carter -- Tom;
 		Cole -- "Shadia/SJ";
-		Dave -- Everett;
 		Donnie -- Bianca;
 		Donnie -- Bryan;
 		Donnie -- Troy;
-		Greg -- "Ali.1";
 		Greg -- Andrew;
 		Greg -- Carter;
 		Greg -- "John Boi";
@@ -72,7 +69,6 @@ strict graph {
 		Jared -- Fabi;
 		Jared -- "Jack.2";
 		Jared -- Cole;
-		Jared -- Fitz;
 		Jared -- Kamon;
 		Jared -- Greg;
 		Jared -- Isabelle;
@@ -90,8 +86,6 @@ strict graph {
 		Troy -- Drake;
 		Tyler -- Gaby;
 		Zoe -- Brandon;
-		Zoe -- Jasper;
-		Zoe -- Jacob;
 	}
 
 	subgraph "Zach/Laniakea" {
@@ -100,7 +94,6 @@ strict graph {
 
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
-		Kuri -- Drew;
 		Kuri -- Jon;
 		Kuri -- Karma;
 		"Ryan/Wenger" -- Gracie;
@@ -121,15 +114,13 @@ strict graph {
 		node [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 		// John [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 
-		Haber -- "Derek/Nomad";
 		John -- Anna;
 		John -- Emily;
 		John -- Haber;
 		John -- Jay;
-		John -- Jack;
+		John -- "Jack.1";
 		John -- Lara;
 		John -- Monarch;
-		John -- "Oliger/Leanza";
 		John -- Thomas;
 	}
 
@@ -149,12 +140,9 @@ strict graph {
 		Thomas -- JD;
 		Thomas -- Josh;
 		Thomas -- Juan;
-		Thomas -- Michael;
 		Thomas -- Taylor;
 		Thomas -- Tony;
-		Thomas -- "Travis.1";
-		Thomas -- "Travis.2";
-		Tony -- GT;
+		Thomas -- Travis;
 	}
 
 	subgraph "Alex" {
@@ -169,14 +157,12 @@ strict graph {
 		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Chris;
-		"Alex/Blitt" -- Frank;
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Laske;
 		"Alex/Blitt" -- "Ryan.1";
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
-		"Da'Von" -- Dalyn;
 		"Da'Von" -- Zeller;
 		Dalton -- Graysen;
 		Gabriel -- "Ryan.2";
