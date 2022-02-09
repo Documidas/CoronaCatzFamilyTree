@@ -17,7 +17,7 @@ strict graph {
 		node [ style=filled fillcolor="firebrick4" fontcolor="white" ];
 		Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
-		Cayla -- "Ali.2";
+		Cayla -- Ali;
 		Cayla -- Jonathan;
 		Cayla -- Kate;
 		Cayla -- Ranger;
@@ -37,7 +37,7 @@ strict graph {
 		Anders -- Chiara;
 		Anders -- Cody;
 		Anders -- Daniel;
-		Anders -- "Derek/Yaupon";
+		Anders -- Derek;
 		Anders -- DJ;
 		Anders -- Hahnur;
 		Anders -- Jen;
@@ -162,6 +162,7 @@ strict graph {
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Laske;
+		"Alex/Blitt" -- Mikael;
 		"Alex/Blitt" -- "Ryan.1";
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
