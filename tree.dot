@@ -140,6 +140,7 @@ strict graph {
 
 		Thomas -- Alex;
 		Thomas -- Bob;
+		Thomas -- Dre;
 		Thomas -- JD;
 		Thomas -- Josh;
 		Thomas -- Juan;
