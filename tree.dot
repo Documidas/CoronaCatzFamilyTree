@@ -86,6 +86,7 @@ strict graph {
 		"John Boi" -- Hardie;
 		"Shadia/SJ" -- Kalel;
 		"Shadia/SJ" -- Tommy;
+		Tommy -- Danny;
 		Troy -- Drake;
 		Tyler -- Gaby;
 		Zoe -- Brandon;
