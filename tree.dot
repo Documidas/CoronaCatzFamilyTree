@@ -97,6 +97,7 @@ strict graph {
 
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
+		Kuri -- "Andrew/Spook";
 		Kuri -- Jon;
 		Kuri -- Karma;
 		"Ryan/Wenger" -- Gracie;
