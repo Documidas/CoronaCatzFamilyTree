@@ -59,7 +59,7 @@ strict graph {
 		Donnie -- Troy;
 		Greg -- "Ali.2";
 		Greg -- Andrew;
-		Greg -- Carter;
+		Greg -- "Carter.1";
 		Greg -- "John Boi";
 		Greg -- Tails;
 		Greg -- Tanyon;
@@ -171,6 +171,7 @@ strict graph {
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Zeller;
+		Dalton -- "Carter.2";
 		Dalton -- Graysen;
 		Gabriel -- "Ryan.2";
 		Zeller -- Sierra;
