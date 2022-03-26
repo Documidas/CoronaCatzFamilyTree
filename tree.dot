@@ -58,7 +58,7 @@ strict graph {
 		Donnie -- Bryan;
 		Donnie -- Troy;
 		Greg -- Andrew;
-		Greg -- Carter;
+		Greg -- "Carter.1";
 		Greg -- Ina;
 		Greg -- "John Boi";
 		Greg -- Tails;
@@ -86,6 +86,7 @@ strict graph {
 		"John Boi" -- Hardie;
 		"Shadia/SJ" -- Kalel;
 		"Shadia/SJ" -- Tommy;
+		Tommy -- Danny;
 		Troy -- Drake;
 		Tyler -- Gaby;
 		Zoe -- Brandon;
@@ -97,6 +98,7 @@ strict graph {
 
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
+		Kuri -- "Andrew/Spook";
 		Kuri -- Jon;
 		Kuri -- Karma;
 		"Ryan/Wenger" -- Gracie;
@@ -140,6 +142,7 @@ strict graph {
 
 		Thomas -- Alex;
 		Thomas -- Bob;
+		Thomas -- Dre;
 		Thomas -- JD;
 		Thomas -- Josh;
 		Thomas -- Juan;
@@ -168,6 +171,7 @@ strict graph {
 		"Alex/Blitt" -- "Sam.2";
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Zeller;
+		Dalton -- "Carter.2";
 		Dalton -- Graysen;
 		Gabriel -- "Ryan.2";
 		Zeller -- Sierra;
