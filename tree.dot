@@ -101,6 +101,7 @@ strict graph {
 		Kuri -- "Andrew/Spook";
 		Kuri -- Jon;
 		Kuri -- Karma;
+		Kuri -- Ram;
 		"Ryan/Wenger" -- Gracie;
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
