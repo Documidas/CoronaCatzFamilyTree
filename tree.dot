@@ -17,7 +17,7 @@ strict graph {
 		node [ style=filled fillcolor="firebrick4" fontcolor="white" ];
 		Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
-		Cayla -- "Ali.1";
+		Cayla -- Ali;
 		Cayla -- Jonathan;
 		Cayla -- Kate;
 		Cayla -- Ranger;
@@ -57,9 +57,9 @@ strict graph {
 		Donnie -- Bianca;
 		Donnie -- Bryan;
 		Donnie -- Troy;
-		Greg -- "Ali.2";
 		Greg -- Andrew;
 		Greg -- "Carter.1";
+		Greg -- Ina;
 		Greg -- "John Boi";
 		Greg -- Tails;
 		Greg -- Tanyon;
@@ -101,6 +101,7 @@ strict graph {
 		Kuri -- "Andrew/Spook";
 		Kuri -- Jon;
 		Kuri -- Karma;
+		Kuri -- Ram;
 		"Ryan/Wenger" -- Gracie;
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
