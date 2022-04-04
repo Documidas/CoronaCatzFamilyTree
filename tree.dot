@@ -102,6 +102,7 @@ strict graph {
 		Kuri -- Jon;
 		Kuri -- Karma;
 		Kuri -- Ram;
+		Uko -- Marcus;
 		"Ryan/Wenger" -- Gracie;
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
@@ -112,7 +113,7 @@ strict graph {
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
 		"Zach/Laniakea" -- "Ryan/Wenger";
-		"Zach/Laniakea" -- "Ukko";
+		"Zach/Laniakea" -- Uko;
 	}
 
 	subgraph "John" {
