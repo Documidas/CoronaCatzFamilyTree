@@ -147,6 +147,7 @@ strict graph {
 		Thomas -- JD;
 		Thomas -- Josh;
 		Thomas -- Juan;
+		Thomas -- Pat;
 		Thomas -- Taylor;
 		Thomas -- Tony;
 		Thomas -- Travis;
