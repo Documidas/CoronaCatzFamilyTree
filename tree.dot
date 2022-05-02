@@ -58,7 +58,7 @@ strict graph {
 		Donnie -- Bryan;
 		Donnie -- Troy;
 		Greg -- Andrew;
-		Greg -- "Carter.1";
+		Greg -- "Carter-1.0";
 		Greg -- Ina;
 		Greg -- "John Boi";
 		Greg -- Tails;
