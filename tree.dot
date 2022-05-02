@@ -53,6 +53,7 @@ strict graph {
 		// Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
 		Andrew -- Hannah;
+		"Carter-1.0" -- Tom;
 		Cole -- "Shadia/SJ";
 		Donnie -- Bianca;
 		Donnie -- Bryan;
