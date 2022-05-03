@@ -60,7 +60,6 @@ strict graph {
 		Donnie -- Troy;
 		Greg -- Andrew;
 		Greg -- "Carter-1.0";
-		Greg -- Critical;
 		Greg -- Ina;
 		Greg -- "John Boi";
 		Greg -- Tails;
