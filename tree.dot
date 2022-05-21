@@ -36,6 +36,7 @@ strict graph {
 
 		Anders -- Chiara;
 		Anders -- Cody;
+		Anders -- Cole;
 		Anders -- Daniel;
 		Anders -- Derek;
 		Anders -- DJ;
@@ -46,6 +47,7 @@ strict graph {
 		Anders -- Will;
 		Anders -- Wyatt;
 		Anders -- Zach;
+		Anders -- Zack;
 	}
 
 	subgraph "Jared" {
@@ -53,6 +55,7 @@ strict graph {
 		// Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
 		Andrew -- Hannah;
+		Bryan -- Nebtune;
 		"Carter-1.0" -- Tom;
 		Cole -- "Shadia/SJ";
 		Donnie -- Bianca;
