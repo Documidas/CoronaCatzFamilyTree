@@ -138,6 +138,7 @@ strict graph {
 		node [ style=filled fillcolor="#b04900" fontcolor="black" ];
 		// Thomas [ style=filled fillcolor="#b04900" fontcolor="black" ];
 
+		Thomas -- Ahmeed;
 		Thomas -- Alex;
 		Thomas -- Bob;
 		Thomas -- Dre;
