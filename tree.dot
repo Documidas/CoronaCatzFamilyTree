@@ -124,7 +124,7 @@ strict graph {
 		John -- "Jack.1";
 		John -- Lara;
 		John -- Monarch;
-		John -- Thomas;
+		John -- "Thomas.1";
 	}
 
 	subgraph "John-stream" {
@@ -134,22 +134,23 @@ strict graph {
 		John -- "Michael/Wheezy";
 	}
 
-	subgraph "Thomas" {
+	subgraph "Thomas.1" {
 		node [ style=filled fillcolor="#b04900" fontcolor="black" ];
-		// Thomas [ style=filled fillcolor="#b04900" fontcolor="black" ];
+		// "Thomas.1" [ style=filled fillcolor="#b04900" fontcolor="black" ];
 
-		Thomas -- Ahmeed;
-		Thomas -- Alex;
-		Thomas -- Bob;
-		Thomas -- Dre;
-		Thomas -- JD;
-		Thomas -- Josh;
-		Thomas -- Juan;
-		Thomas -- Pat;
-		Thomas -- Taylor;
-		Thomas -- "Tony.1";
-		Thomas -- "Tony.2";
-		Thomas -- Travis;
+		"Thomas.1" -- Ahmeed;
+		"Thomas.1" -- Alex;
+		"Thomas.1" -- Bob;
+		"Thomas.1" -- Dre;
+		"Thomas.1" -- JD;
+		"Thomas.1" -- Josh;
+		"Thomas.1" -- Juan;
+		"Thomas.1" -- Pat;
+		"Thomas.1" -- Taylor;
+		"Thomas.1" -- "Thomas.2";
+		"Thomas.1" -- "Tony.1";
+		"Thomas.1" -- "Tony.2";
+		"Thomas.1" -- Travis;
 	}
 
 	subgraph "Alex" {
