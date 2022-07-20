@@ -55,13 +55,13 @@ strict graph {
 		node [ style=filled fillcolor="royalblue" fontcolor="black" ];
 		// Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
-		Andrew -- Hannah;
+		"Andrew.1" -- Hannah;
 		Bryan -- Nebtune;
 		"Carter-1.0" -- Tom;
 		Donnie -- Bianca;
 		Donnie -- Bryan;
 		Donnie -- Troy;
-		Greg -- Andrew;
+		Greg -- "Andrew.1";
 		Greg -- "Carter-1.0";
 		Greg -- Ina;
 		Greg -- "John Boi";
@@ -163,6 +163,7 @@ strict graph {
 		Alex -- Sam;
 		"Alex/Blitt" -- Alan;
 		"Alex/Blitt" -- "Alex the 3rd";
+		"Alex/Blitt" -- "Andrew.2";
 		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- Chris;
