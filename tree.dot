@@ -125,6 +125,7 @@ strict graph {
 		John -- "Jack.1";
 		John -- Lara;
 		John -- Monarch;
+		John -- Rakib;
 		John -- "Thomas.1";
 	}
 
