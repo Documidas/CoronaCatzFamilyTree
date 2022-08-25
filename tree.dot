@@ -127,6 +127,7 @@ strict graph {
 		John -- Monarch;
 		John -- Rakib;
 		John -- "Thomas.1";
+		Rakib -- Hazel;
 	}
 
 	subgraph "John-stream" {
