@@ -90,6 +90,7 @@ strict graph {
 		"John Boi" -- Hardie;
 		Tommy -- Danny;
 		Troy -- Drake;
+		Tyler -- Aly;
 		Tyler -- "Bryan.2";
 		Tyler -- Gaby;
 		Zoe -- Brandon;
