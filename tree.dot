@@ -145,6 +145,7 @@ strict graph {
 		"Thomas.1" -- Ahmeed;
 		"Thomas.1" -- Alex;
 		"Thomas.1" -- Bob;
+		"Thomas.1" -- "Da'Von";
 		"Thomas.1" -- Dre;
 		"Thomas.1" -- JD;
 		"Thomas.1" -- Josh;
@@ -162,7 +163,6 @@ strict graph {
 		// Alex [ style=filled fillcolor="#6f2da8" fontcolor="black" ];
 
 		Alex -- "Alex/Blitt";
-		Alex -- "Da'Von";
 		Alex -- David;
 		Alex -- Sam;
 		"Alex/Blitt" -- Alan;
