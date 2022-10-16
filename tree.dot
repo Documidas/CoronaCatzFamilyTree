@@ -61,6 +61,7 @@ strict graph {
 		Donnie -- Bianca;
 		Donnie -- "Brian.1";
 		Donnie -- Troy;
+		Gaby -- "Chris.2";
 		Greg -- "Andrew.1";
 		Greg -- "Carter-1.0";
 		Greg -- Ina;
@@ -170,7 +171,7 @@ strict graph {
 		"Alex/Blitt" -- "Andrew.2";
 		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Carlos;
-		"Alex/Blitt" -- Chris;
+		"Alex/Blitt" -- "Chris.1";
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Laske;
