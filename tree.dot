@@ -61,6 +61,7 @@ strict graph {
 		Donnie -- Bianca;
 		Donnie -- "Brian.1";
 		Donnie -- Darrock;
+		Donnie -- Rinni;
 		Donnie -- Troy;
 		Gaby -- "Chris.2";
 		Greg -- "Andrew.1";
@@ -96,6 +97,7 @@ strict graph {
 		Tyler -- Aly;
 		Tyler -- "Bryan.2";
 		Tyler -- Gaby;
+		Zoe -- Aiden;
 		Zoe -- Brandon;
 	}
 
