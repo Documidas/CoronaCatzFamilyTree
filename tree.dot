@@ -88,17 +88,17 @@ strict graph {
 		Jared -- Spencer;
 		Jared -- Steff;
 		Jared -- Tommy;
-		Jared -- Tyler.1;
+		Jared -- "Tyler.1";
 		Jared -- "Zach/Laniakea";
 		Jared -- Zoe;
 		"John Boi" -- Hardie;
 		Tommy -- Danny;
 		Troy -- Drake;
-		Tyler.1 -- Aly;
-		Tyler.1 -- Andrey;
-		Tyler.1 -- "Bryan.2";
-		Tyler.1 -- Gaby;
-		Tyler.1 -- Tyler.2;
+		"Tyler.1" -- Aly;
+		"Tyler.1" -- Andrey;
+		"Tyler.1" -- "Bryan.2";
+		"Tyler.1" -- Gaby;
+		"Tyler.1" -- "Tyler.2";
 		Zoe -- Aiden;
 		Zoe -- Brandon;
 	}
