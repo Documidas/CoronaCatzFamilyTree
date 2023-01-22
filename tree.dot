@@ -98,6 +98,7 @@ strict graph {
 		"Tyler.1" -- Andrey;
 		"Tyler.1" -- "Bryan.2";
 		"Tyler.1" -- Gaby;
+		"Tyler.1" -- Gage;
 		"Tyler.1" -- "Tyler.2";
 		Zoe -- Aiden;
 		Zoe -- Brandon;
