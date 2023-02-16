@@ -186,6 +186,7 @@ strict graph {
 		"Alex/Blitt" -- Mikael;
 		"Alex/Blitt" -- "Ryan.1";
 		"Alex/Blitt" -- "Sam.2";
+		"Da'Von" -- Brittany;
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Jon;
 		"Da'Von" -- Karma;
