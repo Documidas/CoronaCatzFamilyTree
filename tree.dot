@@ -75,10 +75,11 @@ strict graph {
 		Jared -- Dave;
 		Jared -- Donnie;
 		Jared -- Fabi;
-		Jared -- "Jack.2";
-		Jared -- Kamon;
 		Jared -- Greg;
 		Jared -- Isabelle;
+		Jared -- "Jack.2";
+		Jared -- Julie;
+		Jared -- Kamon;
 		Jared -- Mason;
 		Jared -- "Matt.1";
 		Jared -- Mehmet;
