@@ -23,12 +23,14 @@ strict graph {
 		Cayla -- Nick;
 		Cayla -- Ranger;
 		Joel -- Anders;
+		Joel -- Austin;
 		Joel -- Cayla;
 		Joel -- Conner;
 		Joel -- Jared;
 		Joel -- Kat;
 		Joel -- Patrick;
 		Joel -- Steven;
+		Joel -- "Zach.1";
 	}
 
 	subgraph "Anders" {
@@ -47,7 +49,7 @@ strict graph {
 		Anders -- Solis;
 		Anders -- Will;
 		Anders -- Wyatt;
-		Anders -- Zach;
+		Anders -- "Zach.0";
 		Anders -- Zack;
 	}
 
@@ -160,6 +162,7 @@ strict graph {
 		"Thomas.1" -- Josh;
 		"Thomas.1" -- Juan;
 		"Thomas.1" -- Pat;
+		"Thomas.1" -- Puff;
 		"Thomas.1" -- Taylor;
 		"Thomas.1" -- "Thomas.2";
 		"Thomas.1" -- "Tony.1";
