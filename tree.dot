@@ -60,6 +60,7 @@ strict graph {
 		"Andrew.1" -- Hannah;
 		"Brian.1" -- Nebtune;
 		"Carter-1.0" -- Tom;
+		Donnie -- Ashe;
 		Donnie -- Bianca;
 		Donnie -- "Brian.1";
 		Donnie -- Darrock;
