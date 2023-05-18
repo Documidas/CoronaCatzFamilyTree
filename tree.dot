@@ -30,7 +30,8 @@ strict graph {
 		Joel -- Kat;
 		Joel -- Patrick;
 		Joel -- Steven;
-		Joel -- "Zachry";
+		Joel -- Zachry;
+		Zachry -- Syd;
 	}
 
 	subgraph "Anders" {
