@@ -59,9 +59,11 @@ strict graph {
 		// Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
 		"Andrew.1" -- Hannah;
+		Bianca -- "Alex.2";
 		"Bryan.1" -- Lori;
 		"Bryan.1" -- Nebtune;
 		"Carter-1.0" -- Tom;
+		Donnie -- Aiyo;
 		Donnie -- Ashe;
 		Donnie -- Bianca;
 		Donnie -- "Bryan.1";
