@@ -68,6 +68,7 @@ strict graph {
 		Donnie -- Bianca;
 		Donnie -- "Bryan.1";
 		Donnie -- Darrock;
+		Donnie -- Eggie;
 		Donnie -- Rinni;
 		Donnie -- Troy;
 		Gaby -- "Chris.2";
