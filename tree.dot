@@ -160,6 +160,14 @@ strict graph {
 		node [ style=filled fillcolor="#b04900" fontcolor="black" ];
 		// "Thomas.1" [ style=filled fillcolor="#b04900" fontcolor="black" ];
 
+		"Da'Von" -- Brittany;
+		"Da'Von" -- Dalton;
+		"Da'Von" -- Jon;
+		"Da'Von" -- Karma;
+		"Da'Von" -- Ram;
+		"Da'Von" -- Zeller;
+		Dalton -- "Carter.2";
+		Dalton -- Graysen;
 		"Thomas.1" -- Ahmeed;
 		"Thomas.1" -- Alex;
 		"Thomas.1" -- Bob;
@@ -197,14 +205,6 @@ strict graph {
 		"Alex/Blitt" -- Mikael;
 		"Alex/Blitt" -- "Ryan.1";
 		"Alex/Blitt" -- "Sam.2";
-		"Da'Von" -- Brittany;
-		"Da'Von" -- Dalton;
-		"Da'Von" -- Jon;
-		"Da'Von" -- Karma;
-		"Da'Von" -- Ram;
-		"Da'Von" -- Zeller;
-		Dalton -- "Carter.2";
-		Dalton -- Graysen;
 		Gabriel -- "Ryan.2";
 	}
 }
