@@ -61,6 +61,7 @@ strict graph {
 		"Andrew.1" -- Hannah;
 		Bianca -- "Alex.2";
 		"Bryan.1" -- Lori;
+		"Bryan.1" -- "Matt.3";
 		"Bryan.1" -- Nebtune;
 		"Carter-1.0" -- Tom;
 		Donnie -- Aiyo;
