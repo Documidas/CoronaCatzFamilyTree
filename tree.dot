@@ -39,7 +39,7 @@ strict graph {
 		// Anders [ style=filled fillcolor="green4" fontcolor="white" ];
 
 		Anders -- Chiara;
-		Anders -- Cody;
+		Anders -- "Cody.1";
 		Anders -- Cole;
 		Anders -- Daniel;
 		Anders -- Derek;
@@ -60,6 +60,7 @@ strict graph {
 
 		"Andrew.1" -- Hannah;
 		Bianca -- "Alex.2";
+		"Bryan.1" -- "Cody.2";
 		"Bryan.1" -- Lori;
 		"Bryan.1" -- "Matt.3";
 		"Bryan.1" -- Nebtune;
