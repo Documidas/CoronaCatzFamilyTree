@@ -207,6 +207,7 @@ strict graph {
 		"Alex/Blitt" -- Mikael;
 		"Alex/Blitt" -- "Ryan.1";
 		"Alex/Blitt" -- "Sam.2";
+		Gabriel -- Rin;
 		Gabriel -- "Ryan.2";
 	}
 }
