@@ -201,10 +201,12 @@ strict graph {
 		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- "Chris.1";
+		"Alex/Blitt" -- Dina;
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Laske;
 		"Alex/Blitt" -- Mikael;
+		"Alex/Blitt" -- Nathan;
 		"Alex/Blitt" -- "Ryan.1";
 		"Alex/Blitt" -- "Sam.2";
 		Gabriel -- "Ryan.2";
