@@ -94,6 +94,7 @@ strict graph {
 		Jared -- Mason;
 		Jared -- "Matt.1";
 		Jared -- Mehmet;
+		Jared -- Michael; 
 		Jared -- Nam;
 		Jared -- Pixie;
 		Jared -- Shannon;
