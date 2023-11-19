@@ -72,6 +72,7 @@ strict graph {
 		Donnie -- Darrock;
 		Donnie -- Eggie;
 		Donnie -- Hua;
+		Donnie -- Mimi;
 		Donnie -- Rinni;
 		Donnie -- Troy;
 		Gaby -- "Chris.2";
