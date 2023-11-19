@@ -27,7 +27,7 @@ strict graph {
 		Joel -- Cayla;
 		Joel -- Conner;
 		Joel -- Jared;
-		Joel -- Kat;
+		Joel -- "Kat.1";
 		Joel -- Patrick;
 		Joel -- Steven;
 		Joel -- Zachry;
@@ -59,6 +59,7 @@ strict graph {
 		// Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
 		"Andrew.1" -- Hannah;
+		America -- "Kat.2";
 		Bianca -- "Alex.2";
 		"Bryan.1" -- "Cody.2";
 		"Bryan.1" -- Lori;
@@ -111,6 +112,7 @@ strict graph {
 		Tommy -- Danny;
 		Troy -- Drake;
 		"Tyler.1" -- Aly;
+		"Tyler.1" -- America;
 		"Tyler.1" -- Andrey;
 		"Tyler.1" -- "Bryan.2";
 		"Tyler.1" -- Gaby;
