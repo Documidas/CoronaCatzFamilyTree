@@ -84,6 +84,7 @@ strict graph {
 		Greg -- Tails;
 		Greg -- Tanyon;
 		Hannah -- Raana;
+		Jared -- Alexander;
 		Jared -- Brandi;
 		Jared -- Chad;
 		Jared -- Dave;
