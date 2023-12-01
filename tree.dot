@@ -94,6 +94,7 @@ strict graph {
 		Jared -- Greg;
 		Jared -- Isabelle;
 		Jared -- "Jack.2";
+		Jared -- "Josh.2";
 		Jared -- Julie;
 		Jared -- Kamon;
 		Jared -- Mason;
@@ -183,7 +184,7 @@ strict graph {
 		"Thomas.1" -- "Da'Von";
 		"Thomas.1" -- Dre;
 		"Thomas.1" -- JD;
-		"Thomas.1" -- Josh;
+		"Thomas.1" -- "Josh.1";
 		"Thomas.1" -- Juan;
 		"Thomas.1" -- Pat;
 		"Thomas.1" -- Puff;
