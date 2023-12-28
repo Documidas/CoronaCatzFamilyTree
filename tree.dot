@@ -84,6 +84,7 @@ strict graph {
 		Greg -- Tails;
 		Greg -- Tanyon;
 		Hannah -- Raana;
+		Lori -- Brandon;
 		Jared -- Alexander;
 		Jared -- Brandi;
 		Jared -- Chad;
@@ -122,7 +123,6 @@ strict graph {
 		"Tyler.1" -- Gage;
 		"Tyler.1" -- "Tyler.2";
 		Zoe -- Aiden;
-		Zoe -- Brandon;
 	}
 
 	subgraph "Zach/Laniakea" {
