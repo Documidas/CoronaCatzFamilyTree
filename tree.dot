@@ -61,6 +61,7 @@ strict graph {
 		"Andrew.1" -- Hannah;
 		America -- "Kat.2";
 		Bianca -- "Alex.2";
+		"Bryan.1" -- "Brandon.2";
 		"Bryan.1" -- "Cody.2";
 		"Bryan.1" -- Lori;
 		"Bryan.1" -- "Matt.3";
@@ -84,7 +85,7 @@ strict graph {
 		Greg -- Tails;
 		Greg -- Tanyon;
 		Hannah -- Raana;
-		Lori -- Brandon;
+		Lori -- "Brandon.1";
 		Jared -- Alexander;
 		Jared -- Brandi;
 		Jared -- Chad;
