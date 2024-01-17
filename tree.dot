@@ -78,6 +78,7 @@ strict graph {
 		Donnie -- Moon;
 		Donnie -- Rinni;
 		Donnie -- Troy;
+		Donnie -- Vala;
 		Gaby -- "Chris.2";
 		Greg -- "Andrew.1";
 		Greg -- "Carter-1.0";
