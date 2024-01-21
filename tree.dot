@@ -67,6 +67,7 @@ strict graph {
 		"Bryan.1" -- "Matt.3";
 		"Bryan.1" -- Nebtune;
 		"Carter-1.0" -- Tom;
+		Chad -- Pie;
 		Donnie -- Aiyo;
 		Donnie -- Ashe;
 		Donnie -- Bianca;
