@@ -141,7 +141,7 @@ strict graph {
 		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- John;
-		"Zach/Laniakea" -- Logan;
+		"Zach/Laniakea" -- "Logan.1";
 		"Zach/Laniakea" -- Kevin;
 		"Zach/Laniakea" -- Kody;
 		"Zach/Laniakea" -- "Kyle.0";
@@ -154,6 +154,7 @@ strict graph {
 		node [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 		// John [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 
+		Jay -- "Logan.2";
 		John -- Anna;
 		John -- Emily;
 		John -- Haber;
