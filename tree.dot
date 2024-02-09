@@ -18,6 +18,7 @@ strict graph {
 		Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
 		Cayla -- Ali;
+		Cayla -- Jake;
 		Cayla -- Jonathan;
 		Cayla -- Kate;
 		Cayla -- Nick;
