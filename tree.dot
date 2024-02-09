@@ -23,6 +23,7 @@ strict graph {
 		Cayla -- Kate;
 		Cayla -- Nick;
 		Cayla -- Ranger;
+		Cayla -- Ross;
 		Joel -- Anders;
 		Joel -- Austin;
 		Joel -- Cayla;
