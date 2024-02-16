@@ -93,6 +93,7 @@ strict graph {
 		Hannah -- Raana;
 		Lori -- "Brandon.1";
 		Jared -- Alexander;
+		Jared -- Ben;
 		Jared -- Brandi;
 		Jared -- Chad;
 		Jared -- Dave;
