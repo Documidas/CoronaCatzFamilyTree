@@ -63,6 +63,7 @@ strict graph {
 		"Andrew.1" -- Hannah;
 		America -- "Kat.2";
 		Bianca -- "Alex.2";
+		Brandi -- Justine;
 		"Bryan.1" -- "Brandon.2";
 		"Bryan.1" -- "Cody.2";
 		"Bryan.1" -- Lori;
