@@ -72,12 +72,14 @@ strict graph {
 		"Carter-1.0" -- Tom;
 		Chad -- Pie;
 		Donnie -- Aiyo;
+		Donnie -- Aresty;
 		Donnie -- Ashe;
 		Donnie -- Bianca;
 		Donnie -- "Bryan.1";
 		Donnie -- Darrock;
 		Donnie -- Eggie;
 		Donnie -- Hua;
+		Donnie -- Mello;
 		Donnie -- Mia;
 		Donnie -- Mimi;
 		Donnie -- Moon;
