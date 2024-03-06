@@ -128,6 +128,7 @@ strict graph {
 		Tommy -- Danny;
 		Troy -- Drake;
 		"Tyler.1" -- Aly;
+		"Tyler.1" -- "Alex.3";
 		"Tyler.1" -- America;
 		"Tyler.1" -- Andrey;
 		"Tyler.1" -- "Bryan.2";
