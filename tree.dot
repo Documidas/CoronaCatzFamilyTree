@@ -124,6 +124,7 @@ strict graph {
 		Jared -- Zoe;
 		"John Boi" -- Hardie;
 		Mimi -- Hia;
+		Moon -- "Brandon.3";
 		Steff -- JC;
 		Tommy -- Danny;
 		Troy -- Drake;
