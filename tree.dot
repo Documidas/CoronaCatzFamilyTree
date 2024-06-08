@@ -85,6 +85,7 @@ strict graph {
 		Donnie -- Mia;
 		Donnie -- Mimi;
 		Donnie -- Moon;
+		Donnie -- Naomi;
 		Donnie -- Rinni;
 		Donnie -- Serge;
 		Donnie -- Troy;
