@@ -222,7 +222,7 @@ strict graph {
 		// Alex [ style=filled fillcolor="#6f2da8" fontcolor="black" ];
 
 		Alex -- "Alex/Blitt";
-		Alex -- David;
+		Alex -- "David.1";
 		Alex -- Sam;
 		"Alex/Blitt" -- Alan;
 		"Alex/Blitt" -- "Alex the 3rd";
@@ -230,6 +230,7 @@ strict graph {
 		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Carlos;
 		"Alex/Blitt" -- "Chris.1";
+		"Alex/Blitt" -- "David.2";
 		"Alex/Blitt" -- Dina;
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Kyle.3";
