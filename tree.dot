@@ -122,15 +122,14 @@ strict graph {
 		Jared -- Shannon;
 		Jared -- Spencer;
 		Jared -- Steff;
-		Jared -- Tommy;
 		Jared -- "Tyler.1";
 		Jared -- "Zach/Laniakea";
 		Jared -- Zoe;
 		"John Boi" -- Hardie;
+		Mason -- Tommy;
 		Mimi -- Hia;
 		Moon -- "Brandon.3";
 		Steff -- JC;
-		Tommy -- Danny;
 		Troy -- Drake;
 		"Tyler.1" -- Aly;
 		"Tyler.1" -- "Alex.3";
