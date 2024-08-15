@@ -21,7 +21,7 @@ strict graph {
 		Cayla -- Jake;
 		Cayla -- Jonathan;
 		Cayla -- Kate;
-		Cayla -- Nick;
+		Cayla -- "Nick.1";
 		Cayla -- Ranger;
 		Cayla -- Ross;
 		Joel -- Anders;
@@ -85,6 +85,7 @@ strict graph {
 		Donnie -- Mia;
 		Donnie -- Mimi;
 		Donnie -- Moon;
+		Donnie -- "Nick.2";
 		Donnie -- Naomi;
 		Donnie -- Rinni;
 		Donnie -- Serge;
