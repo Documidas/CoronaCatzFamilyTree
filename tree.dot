@@ -20,16 +20,13 @@ strict graph {
 		Cayla -- Ali;
 		Cayla -- Jake;
 		Cayla -- Jonathan;
-		Cayla -- Kate;
 		Cayla -- "Nick.1";
 		Cayla -- Ranger;
 		Cayla -- Ross;
 		Joel -- Anders;
 		Joel -- Austin;
 		Joel -- Cayla;
-		Joel -- Conner;
 		Joel -- Jared;
-		Joel -- "Kat.1";
 		Joel -- Patrick;
 		Joel -- Steven;
 		Joel -- Zachry;
@@ -46,40 +43,31 @@ strict graph {
 		Anders -- Daniel;
 		Anders -- Derek;
 		Anders -- DJ;
-		Anders -- Hahnur;
 		Anders -- Jen;
 		Anders -- "Matt.2";
 		Anders -- Solis;
-		Anders -- Will;
 		Anders -- Wyatt;
 		Anders -- Viwat;
 		Anders -- "Zach.0";
 		Anders -- Zack;
-		Viwat -- Artur;
 	}
 
 	subgraph "Jared" {
 		node [ style=filled fillcolor="royalblue" fontcolor="black" ];
 		// Jared [ style=filled fillcolor="royalblue" fontcolor="black" ];
 
-		"Andrew.1" -- Hannah;
+		Aly -- "Nick.2";
 		America -- "Kat.2";
-		Bianca -- "Alex.2";
 		Brandi -- Justine;
 		"Bryan.1" -- "Brandon.2";
 		"Bryan.1" -- "Cody.2";
 		"Bryan.1" -- Lori;
 		"Bryan.1" -- "Matt.3";
 		"Bryan.1" -- Nebtune;
-		"Carter-1.0" -- Tom;
-		Chad -- Pie;
 		Donnie -- Aiyo;
+		Donnie -- "Alex.2";
 		Donnie -- Aresty;
-		Donnie -- Ashe;
-		Donnie -- Bianca;
 		Donnie -- "Bryan.1";
-		Donnie -- Darrock;
-		Donnie -- Eggie;
 		Donnie -- Hua;
 		Donnie -- Mello;
 		Donnie -- Mia;
@@ -87,60 +75,40 @@ strict graph {
 		Donnie -- Moon;
 		Donnie -- "Nick.2";
 		Donnie -- Naomi;
-		Donnie -- Rinni;
 		Donnie -- Serge;
-		Donnie -- Troy;
 		Donnie -- Vala;
 		Gaby -- "Chris.2";
-		Greg -- "Andrew.1";
-		Greg -- "Carter-1.0";
-		Greg -- Ina;
-		Greg -- "John Boi";
-		Greg -- Tails;
-		Greg -- Tanyon;
-		Hannah -- Raana;
 		Lori -- "Brandon.1";
 		Jared -- Alexander;
 		Jared -- Ben;
 		Jared -- Brandi;
+		Jared -- "Carter-1.0";
 		Jared -- Chad;
 		Jared -- Dave;
 		Jared -- Donnie;
 		Jared -- Em;
 		Jared -- Fabi;
 		Jared -- Frank;
-		Jared -- Greg;
-		Jared -- Isabelle;
-		Jared -- "Jack.2";
+		Jared -- Hannah;
+		Jared -- "John Boi";
 		Jared -- "Josh.2";
-		Jared -- Julie;
-		Jared -- Kamon;
 		Jared -- Mason;
 		Jared -- "Matt.1";
 		Jared -- Mehmet;
-		Jared -- Michael; 
 		Jared -- Nam;
 		Jared -- Pixie;
-		Jared -- Shannon;
 		Jared -- Spencer;
-		Jared -- Steff;
-		Jared -- "Tyler.1";
+		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
 		Jared -- Zoe;
 		"John Boi" -- Hardie;
-		Mason -- Tommy;
 		Mimi -- Hia;
 		Moon -- "Brandon.3";
-		Steff -- JC;
-		Troy -- Drake;
-		"Tyler.1" -- Aly;
-		"Tyler.1" -- "Alex.3";
-		"Tyler.1" -- America;
-		"Tyler.1" -- Andrey;
-		"Tyler.1" -- "Bryan.2";
-		"Tyler.1" -- Gaby;
-		"Tyler.1" -- Gage;
-		"Tyler.1" -- "Tyler.2";
+		Tyler -- Aly;
+		Tyler -- "Alex.3";
+		Tyler -- America;
+		Tyler -- "Bryan.2";
+		Tyler -- Gaby;
 		Zoe -- Aiden;
 	}
 
@@ -151,8 +119,6 @@ strict graph {
 		"Caio.2" -- "Kyle.1";
 		"Caio.2" -- Lucas;
 		"Ryan/Des" -- Marcus;
-		"Ryan/Wenger" -- Gracie;
-		"Zach/Laniakea" -- Allen;
 		"Zach/Laniakea" -- "Caio.2";
 		"Zach/Laniakea" -- John;
 		"Zach/Laniakea" -- "Logan.1";
@@ -175,47 +141,23 @@ strict graph {
 		John -- Jay;
 		John -- "Jack.1";
 		John -- Lara;
-		John -- Monarch;
-		John -- Rakib;
 		John -- "Thomas.1";
-		Rakib -- Hazel;
-	}
-
-	subgraph "John-stream" {
-		// node [ style=filled fillcolor="#9147ff" fontcolor="black" ];
-		node [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
-
-		John -- "Michael/Wheezy";
 	}
 
 	subgraph "Thomas.1" {
 		node [ style=filled fillcolor="#b04900" fontcolor="black" ];
 		// "Thomas.1" [ style=filled fillcolor="#b04900" fontcolor="black" ];
 
-		"Da'Von" -- Brittany;
 		"Da'Von" -- Dalton;
 		"Da'Von" -- Jon;
 		"Da'Von" -- Karma;
-		"Da'Von" -- Ram;
 		"Da'Von" -- Zeller;
 		Dalton -- "Carter.2";
-		Dalton -- Graysen;
-		"Thomas.1" -- Ahmeed;
 		"Thomas.1" -- Alex;
-		"Thomas.1" -- Bob;
 		"Thomas.1" -- "Da'Von";
 		"Thomas.1" -- Dre;
-		"Thomas.1" -- JD;
 		"Thomas.1" -- "Josh.1";
-		"Thomas.1" -- Juan;
-		"Thomas.1" -- Pat;
-		"Thomas.1" -- Puff;
-		"Thomas.1" -- Taylor;
-		"Thomas.1" -- "Thomas.2";
 		"Thomas.1" -- "Tony.1";
-		"Thomas.1" -- "Tony.2";
-		"Thomas.1" -- Travis;
-		"Tony.1" -- Hari;
 	}
 
 	subgraph "Alex" {
@@ -223,24 +165,15 @@ strict graph {
 		// Alex [ style=filled fillcolor="#6f2da8" fontcolor="black" ];
 
 		Alex -- "Alex/Blitt";
-		Alex -- "David.1";
 		Alex -- Sam;
-		"Alex/Blitt" -- Alan;
-		"Alex/Blitt" -- "Alex the 3rd";
-		"Alex/Blitt" -- "Andrew.2";
 		"Alex/Blitt" -- Brian;
-		"Alex/Blitt" -- Carlos;
-		"Alex/Blitt" -- "Chris.1";
-		"Alex/Blitt" -- "David.2";
-		"Alex/Blitt" -- Dina;
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Kyle.3";
-		"Alex/Blitt" -- Laske;
 		"Alex/Blitt" -- Mikael;
 		"Alex/Blitt" -- Nathan;
 		"Alex/Blitt" -- Nolan;
 		"Alex/Blitt" -- "Ryan.1";
-		"Alex/Blitt" -- "Sam.2";
 		Gabriel -- "Ryan.2";
 	}
 }
+
