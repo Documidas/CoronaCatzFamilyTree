@@ -169,6 +169,7 @@ strict graph {
 		"Alex/Blitt" -- Brian;
 		"Alex/Blitt" -- Dan;
 		"Alex/Blitt" -- Gabriel;
+		"Alex/Blitt" -- Joey;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Mikael;
 		"Alex/Blitt" -- Nathan;
