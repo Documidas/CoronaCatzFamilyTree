@@ -175,6 +175,7 @@ strict graph {
 		"Alex/Blitt" -- Nathan;
 		"Alex/Blitt" -- Nolan;
 		"Alex/Blitt" -- "Ryan.1";
+		Gabriel -- Rin;
 		Gabriel -- "Ryan.2";
 	}
 }
