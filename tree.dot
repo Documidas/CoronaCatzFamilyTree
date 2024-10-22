@@ -127,7 +127,8 @@ strict graph {
 		"Zach/Laniakea" -- "Kyle.0";
 		"Zach/Laniakea" -- Mike;
 		"Zach/Laniakea" -- "Ryan/Des";
-		"Zach/Laniakea" -- "Ryan/Wenger";
+		"Zach/Laniakea" -- "Ryan/Winters";
+		"Ryan/Winters" -- "Zach.1";
 	}
 
 	subgraph "John" {
