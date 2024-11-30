@@ -110,6 +110,7 @@ strict graph {
 		Tyler -- "Bryan.2";
 		Tyler -- Gaby;
 		Zoe -- Aiden;
+		Zoe -- Simon;
 	}
 
 	subgraph "Zach/Laniakea" {
