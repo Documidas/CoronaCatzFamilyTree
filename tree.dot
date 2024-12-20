@@ -156,6 +156,7 @@ strict graph {
 		"Da'Von" -- Zeller;
 		Dalton -- "Carter.2";
 		"Thomas.1" -- Alex;
+		"Thomas.1" -- Christian;
 		"Thomas.1" -- "Da'Von";
 		"Thomas.1" -- Dre;
 		"Thomas.1" -- "Josh.1";
