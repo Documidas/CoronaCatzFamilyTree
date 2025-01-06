@@ -181,6 +181,7 @@ strict graph {
 		Gabriel -- Rin;
 		Gabriel -- "Ryan.2";
 		Rin -- Olivia;
+		"Ryan.1" -- David;
 	}
 }
 
