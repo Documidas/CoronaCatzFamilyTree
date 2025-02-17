@@ -98,12 +98,14 @@ strict graph {
 		Jared -- Nam;
 		Jared -- Pixie;
 		Jared -- Spencer;
+		Jared -- Steff;
 		Jared -- Tyler;
 		Jared -- "Zach/Laniakea";
 		Jared -- Zoe;
 		"John Boi" -- Hardie;
 		Mimi -- Hia;
 		Moon -- "Brandon.3";
+		Steff -- JC;
 		Tyler -- Aly;
 		Tyler -- "Alex.3";
 		Tyler -- America;
