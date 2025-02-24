@@ -138,6 +138,7 @@ strict graph {
 		node [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 		// John [ style=filled fillcolor="#c89b3c" fontcolor="black" ];
 
+		"Logan.2" -- Tommy;
 		Jay -- "Logan.2";
 		John -- Anna;
 		John -- Emily;
