@@ -76,6 +76,7 @@ strict graph {
 		Donnie -- "Nick.2";
 		Donnie -- Naomi;
 		Donnie -- Serge;
+		Donnie -- Saphir;
 		Donnie -- Vala;
 		Gaby -- "Chris.2";
 		Lori -- "Brandon.1";
