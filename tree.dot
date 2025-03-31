@@ -183,10 +183,12 @@ strict graph {
 		"Alex/Blitt" -- Nathan;
 		"Alex/Blitt" -- Nolan;
 		"Alex/Blitt" -- "Ryan.1";
+		"Alex/Blitt" -- "Thomas the Second";
 		Gabriel -- Rin;
 		Gabriel -- "Ryan.2";
 		Rin -- Olivia;
 		"Ryan.1" -- David;
+		"Thomas the Second" -- Eli;
 	}
 }
 
