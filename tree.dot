@@ -18,7 +18,7 @@ strict graph {
 		Joel [ style=filled fillcolor="gold" fontcolor="black" ];
 
 		Cayla -- Ali;
-		Cayla -- Jake;
+		Cayla -- "Jake.1";
 		Cayla -- Jonathan;
 		Cayla -- "Nick.1";
 		Cayla -- Ranger;
@@ -177,6 +177,7 @@ strict graph {
 		"Alex/Blitt" -- "Chris.1";
 		"Alex/Blitt" -- Dan;
 		"Alex/Blitt" -- Gabriel;
+		"Alex/Blitt" -- "Jake.2";
 		"Alex/Blitt" -- Joey;
 		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Mikael;
