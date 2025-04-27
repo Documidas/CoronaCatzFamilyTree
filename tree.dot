@@ -187,6 +187,7 @@ strict graph {
 		"Alex/Blitt" -- "Thomas the Second";
 		Gabriel -- Rin;
 		Gabriel -- "Ryan.2";
+		Nathan -- Dina;
 		Rin -- Olivia;
 		"Ryan.1" -- David;
 		"Thomas the Second" -- Eli;
