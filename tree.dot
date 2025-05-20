@@ -39,17 +39,14 @@ strict graph {
 
 		Anders -- Chiara;
 		Anders -- "Cody.1";
-		Anders -- Cole;
 		Anders -- Daniel;
 		Anders -- Derek;
 		Anders -- DJ;
 		Anders -- Jen;
-		Anders -- "Matt.2";
 		Anders -- Solis;
 		Anders -- Wyatt;
 		Anders -- Viwat;
 		Anders -- "Zach.0";
-		Anders -- Zack;
 	}
 
 	subgraph "Jared" {
@@ -58,10 +55,9 @@ strict graph {
 
 		Aly -- "Nick.2";
 		America -- "Kat.2";
-		Brandi -- Justine;
 		"Bryan.1" -- "Brandon.2";
 		"Bryan.1" -- "Cody.2";
-		"Bryan.1" -- Lori;
+		"Bryan.1" -- Claire;
 		"Bryan.1" -- "Matt.3";
 		"Bryan.1" -- Nebtune;
 		Donnie -- Aiyo;
@@ -74,30 +70,23 @@ strict graph {
 		Donnie -- Mimi;
 		Donnie -- Moon;
 		Donnie -- "Nick.2";
-		Donnie -- Naomi;
-		Donnie -- Serge;
 		Donnie -- Saphir;
 		Donnie -- Vala;
 		Gaby -- "Chris.2";
-		Lori -- "Brandon.1";
-		Jared -- Alexander;
+		Claire -- "Brandon.1";
 		Jared -- Ben;
 		Jared -- Brandi;
-		Jared -- "Carter-1.0";
 		Jared -- Chad;
 		Jared -- Dave;
 		Jared -- Donnie;
-		Jared -- Em;
 		Jared -- Fabi;
 		Jared -- Frank;
 		Jared -- Hannah;
 		Jared -- "John Boi";
 		Jared -- "Josh.2";
-		Jared -- Mason;
 		Jared -- "Matt.1";
 		Jared -- Mehmet;
 		Jared -- Nam;
-		Jared -- Pixie;
 		Jared -- Spencer;
 		Jared -- Steff;
 		Jared -- Tyler;
@@ -120,10 +109,8 @@ strict graph {
 		node [ style=filled fillcolor="#4eff2c" fontcolor="black" ];
 		// "Zach/Laniakea" [ style=filled fillcolor="#4eff2c" fontcolor="black" ];
 
-		"Caio.2" -- "Kyle.1";
-		"Caio.2" -- Lucas;
 		"Ryan/Des" -- Marcus;
-		"Zach/Laniakea" -- "Caio.2";
+		"Zach/Laniakea" -- "Kyle.1";
 		"Zach/Laniakea" -- John;
 		"Zach/Laniakea" -- "Logan.1";
 		"Zach/Laniakea" -- Kevin;
@@ -145,7 +132,6 @@ strict graph {
 		John -- Emily;
 		John -- Haber;
 		John -- Jay;
-		John -- "Jack.1";
 		John -- Lara;
 		John -- "Thomas.1";
 	}
@@ -163,8 +149,6 @@ strict graph {
 		"Thomas.1" -- Christian;
 		"Thomas.1" -- "Da'Von";
 		"Thomas.1" -- Dre;
-		"Thomas.1" -- "Josh.1";
-		"Thomas.1" -- "Tony.1";
 	}
 
 	subgraph "Alex" {
@@ -179,7 +163,6 @@ strict graph {
 		"Alex/Blitt" -- Gabriel;
 		"Alex/Blitt" -- "Jake.2";
 		"Alex/Blitt" -- Joey;
-		"Alex/Blitt" -- "Kyle.3";
 		"Alex/Blitt" -- Mikael;
 		"Alex/Blitt" -- Nathan;
 		"Alex/Blitt" -- Nolan;
